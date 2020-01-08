@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/guzman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://guzman.io
+  * I am guzman (https://keybase.io/guzman) on keybase.
+  * I have a public key with fingerprint 9564 E7DB 4649 43D4 6A29  618D E306 F818 548A 29B5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "9564e7db464943d46a29618de306f818548a29b5",
+            "host": "keybase.io",
+            "key_id": "e306f818548a29b5",
+            "kid": "0101dce7367b4e6608ce0a8e205f7a78972cea2c3aac388f4a668d673423ceb8689b0a",
+            "uid": "98d873258724f57e2060179866510f00",
+            "username": "guzman"
+        },
+        "service": {
+            "hostname": "guzman.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421643396,
+    "expire_in": 157680000,
+    "prev": "1c6b344cb16f471a48bf80fb9ea481d8c6c97dbb67e11d66376fba804b59ec50",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtkntQVFUcx3eBGFmGh2CMM0LQNQtxZe7z3HOXEYggCxNfDEzguN3HucuN2Lvt
+C0gcI2gEUthwVciMx4RMAzFKyAwTE5pGo4Y4+geFCjOCTQwPtUKXTKa7VH800/nn
+nPP9fX+fc36/czxhgTqDfirYtza3buM5/dULWwRd7mB9zX5MUKVyzLQfK0Yrk6xY
+LchusytWJ2bCOAbQiJUEGtAcTUk04EkOEFBCFA5kSECGhpoiMJgRK1Id/gwNI/AO
+lKyomqZtzIqkqf/jL14J4AROSCJiKcAKNAIAhyLCeYhInJFZnoUcS4qIJ0WK50UK
+QpnmAYASYCmapEQkQAA5Aec1nGsFx0EJshTJQJakZYbVMAAnWA4CwBC4jON+owPZ
+rXwJ0twW13slvBU7YMQ0za2IyN8Afx3/if9dis2uOlVRfUeTi5xOm8PkT3OW2/y+
+UiSY/yGYBcUqaS3UMtzI7lBUK2YiNKfoVPxIgiYJQFMUB4wYKrMpdmRW/A6GBRDX
+hv8c5NaQhAgEiqZFgQAyzRI8DQUZ4rLAIW1JSFAEIqe9iwBYRBASABQLZIGHOC0w
+HBIZf6EO9K5VxUy0dk3eoiEdisXKO112hB0w1AbEBun0Bl3wMwH+X6AzhET++zee
+hkfqao8rH1a9tKnPlvEwvsVIXaisPzx54vNHzf2etNgvG1d5Sq4PVSzZp7efbdmm
+9waWeef61R2nFo4MtZin7xQ+NSddC29IPhVVH1xs28UGN9hqhn7N8aJ45c5HFYNL
+0cs78jovj16615Zpamw+vbnhbkHIp47xR4d+XrsqpHNN02TUlcGA/rnDgwV441Tq
+7Zu6xoumDO/EQErgWNcbuSM3Pqanisv1VUMV57v7vv+pPs57t2Ym/lhHaNzA219s
+vbGQb9L3vVz9Knruftbj9t7pNWEjIa75e6PJXc+3j+/xRJ2244dSYtLaWsMHMxeb
+Nh9nxITClrrR39xPJkvXX+3YlzJrutza5JvZfq2OMK7PCyq8fnR2POaHB8Nkc35K
+ZHRwbWqlemZ07H7pH8OFUe3jCY/PXUn6fXXJsm/4l8j2b+YvHXP1fHAr0ZFHFX8y
+X3nyq3XD7qwksz67Ozcl/xXCx986qOz2xCwZu2bL0gxnq6v2pFdtSqoJ37A41VOd
+OTMRR+bk7lWKXEX7Xi8YS/0xITZnXfZk3d6DHW99/e2zve8vhjZD8cmWidDXurGg
+7yzp1QPDc9kvNm7Vb3TG+sjbca26rN0RiXmF3l3qcpFBCf3z5psPmxZOROe07Uyv
+r9l20t1kOh/Sli0rlnzZk5g1H/HgSEaEGNZ5pv8z33LPCztXz4eN0BfVtt6/AA==
+=FPnN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/guzman
+
+==================================================================
