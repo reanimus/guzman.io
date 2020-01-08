@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:600');
+
+
+@keyframes blink {
+	0% {opacity: 0}
+	49%{opacity: 0}
+	50% {opacity: 1}
+}
+
+blink{animation: blink 1s infinite;}
+
+// Import only what you need from Bulma
+@import "../node_modules/bulmaswatch/solar/_variables.scss";
+
+$family-sans-serif: "IBM Plex Mono", monospace;
+
+@import "../node_modules/bulma/sass/utilities/_all.sass";
+@import "../node_modules/bulma/sass/base/_all.sass";
+@import "../node_modules/bulma/sass/components/_all.sass";
+@import "../node_modules/bulma/sass/elements/_all.sass";
+@import "../node_modules/bulma/sass/form/_all.sass";
+@import "../node_modules/bulma/sass/grid/_all.sass";
+@import "../node_modules/bulma/sass/layout/_all.sass";
+@import "../node_modules/bulmaswatch/solar/_overrides.scss";
+
+@import "../node_modules/@fortawesome/fontawesome-free/css/all.css";
